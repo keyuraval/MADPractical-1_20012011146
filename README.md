@@ -10,3 +10,10 @@ Aim:
 Type conversion<br/>
 Integer to Double, String to Integer, String to Double.
 ![Screenshot (53)](https://user-images.githubusercontent.com/96626624/183331469-774eab88-0c76-4ec8-ab54-41e1e00559d5.png)
+
+P1_3<br/>
+Aim:
+Scan student’s information and display all the data.
+![3](https://user-images.githubusercontent.com/96626624/184697064-93af7396-5c64-45a7-ae4f-eb4255dd47ed.jpg)
+
+
