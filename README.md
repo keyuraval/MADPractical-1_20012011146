@@ -10,7 +10,7 @@ Store & Display values in different variable of different type (Integer, Double,
 P1_2<br/>
 Aim:
 Type conversion<br/>
-Integer to Double, String to Integer, String to Double.
+Integer to Double, String to Integer, String to Double
 ![Screenshot (53)](https://user-images.githubusercontent.com/96626624/183331469-774eab88-0c76-4ec8-ab54-41e1e00559d5.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
